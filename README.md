@@ -1,4 +1,4 @@
-# Styleguide Checklist
+# Style Guide Checklist
 
 A style guide establishes and enforces style to improve communication.
 
@@ -482,7 +482,7 @@ on a page depending on your particular content.
 - [ ] 503
 
 
-## Consuming the styleguide
+## Consuming the Style Guide
 
 - Who is the audience?
 - What are their biggest needs?
@@ -498,10 +498,10 @@ on a page depending on your particular content.
 While style guides on the web are a relatively new phenomenon, style guides
 themselves have existed for more than a thousand years.
 
-- Grid systems 
+- Grid Systems 
 - A Pattern Language
 - Strunk and White:  The Elements of Style
-- Elements of Typography Style
+- Elements of Typographic Style
 - ISO 690
 - AMA Manual of Style: http://www.amamanualofstyle.com
 - ALA Standards Manual
