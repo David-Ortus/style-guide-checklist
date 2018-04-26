@@ -475,6 +475,8 @@ on a page depending on your particular content.
 - [ ] About
 - [ ] Contact
 - [ ] Help
+- [ ] Privacy
+- [ ] Terms
 
 ### Error pages
 - [ ] 404
@@ -495,16 +497,16 @@ on a page depending on your particular content.
 - Resources?
 
 ## Further Reading
-While style guides on the web are a relatively new phenomenon, style guides
-themselves have existed for more than a thousand years.
+While style guides on the web are a relatively new phenomenon, they have been
+used by designers and writers for a long time. 
 
-- Grid Systems 
-- A Pattern Language
-- Strunk and White:  The Elements of Style
-- Elements of Typographic Style
-- ISO 690
-- AMA Manual of Style: http://www.amamanualofstyle.com
-- ALA Standards Manual
+- [Grid Systems](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)
+- [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
+- [Strunk and White:  The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)
+- [Elements of Typographic Style](https://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style)
+- [ISO 690](https://www.rtu.lv/writable/public_files/RTU_standarts_iso_6902010_english.pdf)
+- [AMA Manual of Style](http://www.amamanualofstyle.com)
+- [ALA Standards Manual](http://www.ala.org/tools/guidelines/standardsmanual/manual)
 - MLA Handbook
 - Chicago Manual of Style
 - The New York Times Manual
